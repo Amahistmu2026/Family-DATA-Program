@@ -1,0 +1,28 @@
+Arbin Bhandari                       Relation: Self
+One Camino Santa Maria               Birthday: November 19, 2002
+San Antonio, TX, 78228               Age: 20
+
+Rabin Bhandari                       Relation: Brother
+Ganganedi, 07                        Birthday: July 14, 1998
+Kathmandu,Nepal 44600                Age: 24
+
+Ram Bhandari                         Relation: Father
+Gangandi,07                          Birthday: January 07, 1974
+Kathmandu, Nepal 44600               Age: 48
+
+Anu Bhandari                         Relation: Mother
+Gangandi, 07                         Birthday: September 02, 1979
+Kathmandu, Nepal 44600               Age: 43
+
+Nishit Aryal                         Relation: Cousin
+Sukedhara,04                         Birthday: December 08, 2003
+Kathmandu, Nepal 44600               Age: 19
+
+Nishit Kumar                         Relation: Aunty
+Gangandi Resedential Area, 12 road    Birthday: September 02, 1978
+Kathmandu, Nepal 44600               Age: 44
+
+Griffin Patrick                      Relation: Friend
+One Camino Santa Maria               Birthday: March 18, 2004
+San Antonio, TX, 78228               Age: 18
+
